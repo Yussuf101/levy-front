@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/levy-front/static/css/main.a339ffac.css",
+    "main.js": "/levy-front/static/js/main.1443c2af.js",
+    "static/js/787.25ed1664.chunk.js": "/levy-front/static/js/787.25ed1664.chunk.js",
+    "index.html": "/levy-front/index.html",
+    "main.a339ffac.css.map": "/levy-front/static/css/main.a339ffac.css.map",
+    "main.1443c2af.js.map": "/levy-front/static/js/main.1443c2af.js.map",
+    "787.25ed1664.chunk.js.map": "/levy-front/static/js/787.25ed1664.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a339ffac.css",
+    "static/js/main.1443c2af.js"
+  ]
+}
