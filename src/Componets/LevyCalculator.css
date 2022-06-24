@@ -1,0 +1,19 @@
+.container {
+  padding: 2rem;
+  background: rgb(65, 65, 64);
+}
+
+.btns{
+background-color: #3106f0;
+}
+.potAmount{
+background-color: #3106f0;
+}
+.MonthlyAmount{
+background-color:#3106f0;
+
+}
+
+.row{
+padding: 0.1rem;
+}
